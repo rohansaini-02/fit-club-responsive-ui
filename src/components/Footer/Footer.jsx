@@ -12,7 +12,9 @@ const Footer = () => {
             <hr/>
             <div className="footer">
                 <div className="social-links">
-                    <img src={Github} alt="" />
+                    <a href="https://github.com/rohansaini-02/fit-club-responsive-ui" target="_blank" rel="noreferrer">
+                        <img src={Github} alt="" />
+                    </a>
                     <img src={Instagram} alt="" />
                     <img src={LinkedIn} alt="" />
                 </div>
