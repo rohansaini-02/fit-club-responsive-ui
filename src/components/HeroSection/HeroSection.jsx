@@ -6,7 +6,6 @@ import hero_image_back from "../../assets/hero_image_back.png"
 import Heart from "../../assets/heart.png"
 import Calories from "../../assets/calories.png"
 import { motion } from 'framer-motion'
-import { type } from '@testing-library/user-event/dist/type'
 import NumberCounter from 'number-counter'
 
 
